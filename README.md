@@ -1,5 +1,9 @@
 # mcbot-python
 
+> [!IMPORTANT]
+> 本项目已停止维护，新项目见 [RSSeeker/mcbot-nodejs](https://github.com/RSSeeker/mcbot-nodejs)。
+> 请前往新仓库获取最新代码、文档与更新。
+
 Minecraft Java Edition 聊天机器人，使用 **Mineflayer (Node.js)** 处理协议层，**Python** 实现命令控制等业务逻辑。支持**终端模式**和**Web 控制台**两种运行方式。
 
 ## 架构
